@@ -1,0 +1,12 @@
+{
+"companyName": "Maggle",
+"productName": "Adman",
+"dataUrl": "Adman_v3.data.unityweb",
+"wasmCodeUrl": "Adman_v3.wasm.code.unityweb",
+"wasmFrameworkUrl": "Adman_v3.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
